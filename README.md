@@ -20,6 +20,15 @@ A sophisticated Python-based task management application designed to help users 
 
 ## 📸 Screenshots
 
+<img width="527" height="857" alt="image" src="https://github.com/user-attachments/assets/6a1bfe9b-2550-44cb-9ef7-1b120fb67ff5" />
+<img width="490" height="872" alt="image" src="https://github.com/user-attachments/assets/71c81d55-b390-4f79-81d3-4fd78c9698b9" />
+<img width="496" height="853" alt="image" src="https://github.com/user-attachments/assets/afb6d92b-b553-44ea-a84d-3f6af01be0a3" />
+<img width="530" height="841" alt="image" src="https://github.com/user-attachments/assets/bfb25df1-5c17-48e0-a7b8-3915a7a2bb62" />
+<img width="507" height="852" alt="image" src="https://github.com/user-attachments/assets/b8fba8d7-fd90-4353-844e-9cd67914e87c" />
+<img width="502" height="525" alt="image" src="https://github.com/user-attachments/assets/5bf72612-842e-432b-96db-a089d6c79ce2" />
+
+
+
 
 
 ## 🛠️ Installation
