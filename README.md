@@ -210,8 +210,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: aahana25boe10087-art
+- Email: aahana.25boe10087@vitbhopal.ac.in
 
 ## 🙏 Acknowledgments
 
